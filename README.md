@@ -1,1 +1,1 @@
-# gostack
+# Template typescript
